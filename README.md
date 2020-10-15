@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-最新地址: [点击传送](wujiev2ray.top "点击传送")
+最新地址: [点击传送](https://wujiev2ray.top "点击传送")
 备用域名:wujiessr.site
