@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **wujiev2ray/WUJIEV2RAY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-最新地址:wujiev2ray.top
+最新地址: [点击传送](wujiev2ray.top "点击传送")
 备用域名:wujiessr.site
